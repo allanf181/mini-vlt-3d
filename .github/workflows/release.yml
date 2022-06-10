@@ -5,6 +5,9 @@ permissions:
 jobs:
   build-and-deploy:
     concurrency: ci-${{ github.ref }}
+    environment:
+      name: production
+      url: https://vlt.mini.sampa.br
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
