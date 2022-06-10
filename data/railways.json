@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Emtu.953",
+    "title": {
+      "en": "Line 1",
+      "pt": "Linha 1"
+    },
+    "stations": [
+      "Emtu.953.Porto",
+      "Emtu.953.ConselheiroNebias",
+      "Emtu.953.WashingtonLuis",
+      "Emtu.953.AnaCosta",
+      "Emtu.953.Bernardino",
+      "Emtu.953.PinheiroMachado",
+      "Emtu.953.NossaSenhoradeLourdes",
+      "Emtu.953.JoaoRibeiro",
+      "Emtu.953.Itarare",
+      "Emtu.953.JoseMonteiro",
+      "Emtu.953.NossaSenhoradasGracas",
+      "Emtu.953.Emmerich",
+      "Emtu.953.SaoVicente",
+      "Emtu.953.Mascarenhas",
+      "Emtu.953.Barreiros"
+    ],
+    "ascending": "Emtu.Barreiros",
+    "altitude": 0,
+    "color": "#93C21C",
+    "carComposition": 7
+  }
+]

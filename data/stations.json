@@ -1,0 +1,213 @@
+[
+  {
+    "id": "Emtu.953.Barreiros",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.409167,
+      -23.960556
+    ],
+    "title": {
+      "en": "Barreiros Station",
+      "pt": "Estação Barreiros"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.Mascarenhas",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3979118,
+      -23.961742
+    ],
+    "title": {
+      "en": "Mascarenhas de Moraes Station",
+      "pt": "Estação Mascarenhas de Moraes"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.SaoVicente",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3877297,
+      -23.9627192
+    ],
+    "title": {
+      "en": "São Vicente Station",
+      "pt": "Estação São Vicente"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.Emmerich",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3807992,
+      -23.9647354
+    ],
+    "title": {
+      "en": "Antônio Emmerich Station",
+      "pt": "Estação Antônio Emmerich"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.NossaSenhoradasGracas",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3762903,
+      -23.966389
+    ],
+    "title": {
+      "en": "Nossa Senhora das Graças Station",
+      "pt": "Estação Nossa Senhora das Graças"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.JoseMonteiro",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3709388,
+      -23.9683349
+    ],
+    "title": {
+      "en": "José Monteiro Station",
+      "pt": "Estação José Monteiro"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.Itarare",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3623281,
+      -23.9684346
+    ],
+    "title": {
+      "en": "Itararé Station",
+      "pt": "Estação Itararé",
+      "pt-Wiki": "Estação Itararé (EMTU)"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.JoaoRibeiro",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3577344,
+      -23.9674357
+    ],
+    "title": {
+      "en": "João Ribeiro Station",
+      "pt": "Estação João Ribeiro"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.NossaSenhoradeLourdes",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3524566,
+      -23.9655847
+    ],
+    "title": {
+      "en": "Nossa Senhora de Lourdes Station",
+      "pt": "Estação Nossa Senhora de Lourdes"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.PinheiroMachado",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3459369,
+      -23.9631382
+    ],
+    "title": {
+      "en": "Pinheiro Machado Station",
+      "pt": "Estação Pinheiro Machado"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.Bernardino",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3389544,
+      -23.9616908
+    ],
+    "title": {
+      "en": "Bernardino de Campos Station",
+      "pt": "Estação Bernardino de Campos"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.AnaCosta",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3331653,
+      -23.9595686
+    ],
+    "title": {
+      "en": "Ana Costa Station",
+      "pt": "Estação Ana Costa"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.WashingtonLuis",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3285344,
+      -23.9578522
+    ],
+    "title": {
+      "en": "Washington Luís Station",
+      "pt": "Estação Washington Luís"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.ConselheiroNebias",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3232769,
+      -23.9576518
+    ],
+    "title": {
+      "en": "Conselheiro Nébias Station",
+      "pt": "Estação Conselheiro Nébias"
+    },
+    "exit": [],
+    "altitude": 0
+  },
+  {
+    "id": "Emtu.953.Porto",
+    "railway": "Emtu.953",
+    "coord": [
+      -46.3135223,
+      -23.9569243
+    ],
+    "title": {
+      "en": "Porto Station",
+      "pt": "Estação Porto"
+    },
+    "exit": [],
+    "altitude": 0
+  }
+]
