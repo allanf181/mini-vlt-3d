@@ -13,7 +13,7 @@ jobs:
       - name: Install and Build 🔧
         shell: bash
         env:
-          VITE_KEY: ${{ secrets.MAPBOX_BEY }}
+          VITE_KEY: ${{ secrets.MAPBOX_KEY }}
         run: |
           npm ci
           npm run gen
