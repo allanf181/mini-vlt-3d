@@ -17,6 +17,8 @@ import nearestPointProps from '../turf/nearest-point-props';
 import {includes, valueOrDefault} from '../helpers';
 import {loadJSON, saveJSON} from './helpers';
 
+const HIDDEN_STATIONS = /.^/;
+
 function setAltitude(geojson, altitude) {
     coordEach(geojson, coord => {
         coord[2] = altitude;
@@ -358,7 +360,10 @@ export function featureWorker() {
                 coords = stations.map(id => {
                     const {railway, coord} = stationLookup[id],
                         feature = featureLookup[railway];
-
+                    if (!id.match(HIDDEN_STATIONS)) {
+                        layer.id = layer.id || id;
+                        ids.push(id);
+                    }
                     return getCoord(nearestPointOnLine(feature, coord));
                 }),
                 feature = coords.length === 1 ? point(coords[0]) : lineString(coords);
