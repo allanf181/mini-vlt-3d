@@ -53,7 +53,8 @@ Your support, large or small, helps keep this project strong!
 - [Monthly donation through GitHub Sponsors](https://github.com/sponsors/allanf181)
 - [Support Me on Ko-fi](https://ko-fi.com/allanf181)
 - Support with PIX (Brazil)
-![QRCodePix](https://i.imgur.com/s5IbEFp.png)
+
+  ![QRCodePix](https://i.imgur.com/s5IbEFp.png)
 
 ## Also check out these projects:
 
