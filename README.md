@@ -54,7 +54,8 @@ Your support, large or small, helps keep this project strong!
 - [Support Me on Ko-fi](https://ko-fi.com/allanf181)
 - Support with PIX (Brazil)
 
-  ![QRCodePix](https://i.imgur.com/s5IbEFp.png)
+  ![QRCodePix](https://user-images.githubusercontent.com/14101716/192675386-e7ed0203-3322-462d-a9a2-b10e99f987bd.png)
+
 
 ## Also check out these projects:
 
